@@ -84,6 +84,7 @@ let currentMonth = new Date();
 console.log(currentMonth.getMonth());
 console.log(currentMonth.getDate());
 
+
 //11. Task: What is the difference between getDate() and getDay()?
 
 //A:getDate() is a function which return the day of the month(1-31)
