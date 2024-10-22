@@ -42,7 +42,7 @@ console.log(div);
 console.log(mod);
 
 //Bignit
-// let huge_no=34567666666666;
+  // let huge_no=34567666666666;
 // console.log(typeof huge_no);
 
 // symbol
